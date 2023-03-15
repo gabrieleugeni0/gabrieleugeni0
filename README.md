@@ -1,22 +1,24 @@
 ## Hi there, I'm Gabriel Rodrigues👋  
+
 [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](gabrieleugeni0)
 
 - 📚 I'm currently studying Computer Engineering and finishing Data Engineering course
 - 🔭 I’m currently working the most of the time with Python and all the Data-related frameworks and libraries
 - 🌱 I’m currently learning JavaScript, Node.js, HTML5, CSS3 and other important JS frameworks
 - 🎓 I'm graduated in Civil Engineering
-- 🎮 Playing games in my free time
+- 🎮 Playing games in my free time  
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrieleugeni0&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrieleugeni0&theme=darcula&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleugeni0&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleugeni0&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 📫 Feel free to contact me:  
+<a href="gabrieleugenio90@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534991999337)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aJBuVswDPb)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieleugeni0/)
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![](https://img.shields.io/badge/gabrieleugenio90@gmail.com-000000)  
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/gabrieleugenio#7130?recipient=gabrieleugenio#7130)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieleugeni0/)  
+
 
 ## 🔭 I’m currently working with:
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
